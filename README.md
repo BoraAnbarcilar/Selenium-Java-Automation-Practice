@@ -1,4 +1,4 @@
-#  Herokuapp Selenium Test Automation Project
+git add README.md src/README.md#  Herokuapp Selenium Test Automation Project
 
 This repository serves as a comprehensive QA portfolio, showcasing the full testing lifecycle—from initial requirements analysis to automated execution and reporting.
 
