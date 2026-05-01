@@ -49,9 +49,10 @@ This table summarizes the manual test design and its automated execution results
 ├── src/test/java           # Selenium Test Scripts
 ├── src/test/resources      # Test Data (config.properties)
 ├── docs/                   # Project Documentation
-│   ├── Test_Execution_Report_Herokuapp.xlsx   # Main Excel Document
-│   └── scenarios/
+│   ├── SOFTWARE REQUIREMENTS SPECIFICATION (SRS-2026-001)   # Main Excel Document
+│   └── reports/
 │       └── Test_Scenarios_Report.pdf          # Final PDF Report
+|       └── Test_Execution_Report_Herokuapp.xlsx
 ├── pom.xml                 # Dependencies (Selenium, JUnit, etc.)
 └── README.md               # Main Project Overview  
 ```
@@ -67,7 +68,7 @@ This table summarizes the manual test design and its automated execution results
 ### **Execution Steps**
 
 1. **Clone the project:**
-   `git clone https://github.com/kullanici-adin/Selenium-Authentication-Project.git`
+   `git clone https://github.com/BoraAnbarcilar/Selenium-Authentication-Project.git`
 
 2. **Navigate to the directory:**
    `cd Selenium-Authentication-Project`
